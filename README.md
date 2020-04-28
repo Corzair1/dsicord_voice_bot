@@ -1,2 +1,2 @@
-# dsicord_voice_bot
+# discord_voice_bot
 Voice helper for Discord
